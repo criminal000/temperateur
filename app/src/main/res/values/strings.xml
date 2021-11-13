@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">tempewael</string>
+    <string name="temperature_in_f">TEMPERATURE IN F</string>
+    <string name="temperature_in_c">TEMPERATURE IN C</string>
+    <string name="convert">CONVERT</string>
+    <string name="reset">RESET</string>
+</resources>
